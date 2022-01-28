@@ -185,7 +185,7 @@ main{
     height: 5%;
     background-color: black;
     position: fixed;
-    bottom: 0;
+    bottom: 2px;
     margin-left: 20px;
     border: none;
 }
